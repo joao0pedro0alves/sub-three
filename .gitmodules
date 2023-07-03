@@ -1,0 +1,3 @@
+[submodule "src/sub-three-common"]
+	path = src/sub-three-common
+	url = https://github.com/joao0pedro0alves/sub-three-common
